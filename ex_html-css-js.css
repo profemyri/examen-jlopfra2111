@@ -1,13 +1,27 @@
 body {
-   ...........
+   background-color: beige;
+   color: black;
+   image: resolution 15px; ;
+   border-image: 5px;
+
+
 }
 
 h1 {
-   ...........
+  size: 32px;
+  color:rgb(66, 1, 1);
+  text-align: center;
+  padding: 20px;
 }
+h2{
+size: 32px;
+color: rgb(97, 97, 97);
+padding: 15px;
 
+}
 form {
-   ...........
+ background-color: white;  
+ border-radius: 5px;
+ padding-inline: 15px;
+ padding-top: 20px;
 }
-
-............
